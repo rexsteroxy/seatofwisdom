@@ -1,5 +1,5 @@
 <?php include('header.php');?>
-<?php include('slider.php');?>
+<?php include('all.php');?>
 	<div id="fh5co-course">
 		<div class="container">
 			<div class="row animate-box">
@@ -79,6 +79,5 @@
 		</div>
 	</div>
 
-	<?php include('all.php');?>
-
+	
 	<?php include('footer.php');?>

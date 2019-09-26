@@ -128,7 +128,7 @@
                     <button class="btn btn primay"> <a href="gallery.html">Click To View More</a> </button>
 					</div>
 					</div>
-<?php include('all.php');?>
+
 <?php include('footer.php');?>
 
 
