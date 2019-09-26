@@ -1,12 +1,10 @@
 <div class="container-fluid"> 
     <div class="row">
-        <div>
-            <img class="mySlides " src="images/img1.jpg" style="height:50%">
-            <img class="mySlides " src="images/img2.jpg" style="height:50%">
-            <img class="mySlides " src="images/img1.jpg" style="height:50%">
-            <img class="mySlides" src="images/img2.jpg" style="height:50%">
-			   		
-        </div>
+    <div class="jumbotron" style="background-image: url(images/img1.jpg)">
+   <div class="container for-about">
+   <h1>About</h1>
+   </div>
+</div>
     </div>
 
 </div>
