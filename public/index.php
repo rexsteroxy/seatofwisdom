@@ -1,5 +1,6 @@
 <?php include('header.php');?>
-<?php include('slider.php');?>	
+<?php //include('slider.php');?>
+
 
 	<div id="fh5co-course-categories">
 		<div class="container">
