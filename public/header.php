@@ -108,7 +108,7 @@
 		<div class="flexslider">
 			<ul class="slides">
 		   	<li style="background-image: url(images/img1.jpg);">
-		   		<div class="overlay-gradient"></div>
+		   		<!-- <div class="overlay-gradient"></div> -->
 		   		<div class="container">
 		   			<div class="row">
 			   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
