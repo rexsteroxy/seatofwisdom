@@ -8,9 +8,13 @@
 	<meta name="description" content="Seat Of Wisdom Seminary Ulakwu Website" />
 	<meta name="keywords" content="Seat Of Wisdom Seminary Ulakwu Website" />
 	<meta name="author" content="Amadi Austin Chukwuemeka" />
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-
-
+	<!-- <style>
+		.mySlides{
+			display:none;
+			}
+	</style> -->
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400" rel="stylesheet">
 	

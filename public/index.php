@@ -1,24 +1,5 @@
 <?php include('header.php');?>
-<?php //include('slider.php');?>
-<aside id="fh5co-hero">
-	<div class="flexslider">
-		<ul class="slides">
-		   <li style="background-image: url(images/img1.jpg);">
-			   <div class="overlay-gradient"></div>
-			   <div class="container">
-				   <div class="row">
-					   <div class="col-md-8 col-md-offset-2 text-center slider-text">
-						   <div class="slider-text-inner">
-							   <h1 class="heading-section">Our Faculty</h1>
-								<h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
-						   </div>
-					   </div>
-				   </div>
-			   </div>
-		   </li>
-		  </ul>
-	  </div>
-</aside>	
+<?php include('slide.php');?>	
 
 	<div id="fh5co-course-categories">
 		<div class="container">
