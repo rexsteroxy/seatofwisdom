@@ -121,7 +121,7 @@
 								<a href="#" class="gallery" style="background-image: url(images/img3.jpg);"></a>
 							</div>
 							<div class="col-md-3 ">
-								<a href="#" class="gallery" style="background-image: url(images/img4.jpg);"></a>
+								<a href="#" class="gallery" style="background-image: url(images/person1.jpg);"></a>
 							</div>
 						</div>
                     </div>

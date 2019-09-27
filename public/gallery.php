@@ -5,7 +5,7 @@
 			<div class="row">
 				<div class="col-md-3 text-center">
 					<div class="staff">
-						<div class="staff-img" style="background-image: url(images/staff-1.jpg);">
+						<div class="staff-img" style="background-image: url(images/person1.jpg);">
 							<ul class="fh5co-social">
 								<li><a href="#"><i class="icon-facebook2"></i></a></li>
 								<li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -20,7 +20,7 @@
 				</div>
 				<div class="col-md-3 animate-box text-center">
 					<div class="staff">
-						<div class="staff-img" style="background-image: url(images/staff-2.jpg);">
+						<div class="staff-img" style="background-image: url(images/person1.jpg);">
 							<ul class="fh5co-social">
 								<li><a href="#"><i class="icon-facebook2"></i></a></li>
 								<li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -35,7 +35,7 @@
 				</div>
 				<div class="col-md-3 animate-box text-center">
 					<div class="staff">
-						<div class="staff-img" style="background-image: url(images/staff-3.jpg);">
+						<div class="staff-img" style="background-image: url(images/person1.jpg);">
 							<ul class="fh5co-social">
 								<li><a href="#"><i class="icon-facebook2"></i></a></li>
 								<li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -50,7 +50,7 @@
 				</div>
 				<div class="col-md-3 animate-box text-center">
 					<div class="staff">
-						<div class="staff-img" style="background-image: url(images/staff-1.jpg);">
+						<div class="staff-img" style="background-image: url(images/person1.jpg);">
 							<ul class="fh5co-social">
 								<li><a href="#"><i class="icon-facebook2"></i></a></li>
 								<li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -65,7 +65,7 @@
 				</div>
 				<div class="col-md-3 animate-box text-center">
 					<div class="staff">
-						<div class="staff-img" style="background-image: url(images/staff-1.jpg);">
+						<div class="staff-img" style="background-image: url(images/person1.jpg);">
 							<ul class="fh5co-social">
 								<li><a href="#"><i class="icon-facebook2"></i></a></li>
 								<li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -80,7 +80,7 @@
 				</div>
 				<div class="col-md-3 animate-box text-center">
 					<div class="staff">
-						<div class="staff-img" style="background-image: url(images/staff-3.jpg);">
+						<div class="staff-img" style="background-image: url(images/person1.jpg);">
 							<ul class="fh5co-social">
 								<li><a href="#"><i class="icon-facebook2"></i></a></li>
 								<li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -95,7 +95,7 @@
 				</div>
 				<div class="col-md-3 animate-box text-center">
 					<div class="staff">
-						<div class="staff-img" style="background-image: url(images/staff-2.jpg);">
+						<div class="staff-img" style="background-image: url(images/person1.jpg);">
 							<ul class="fh5co-social">
 								<li><a href="#"><i class="icon-facebook2"></i></a></li>
 								<li><a href="#"><i class="icon-twitter2"></i></a></li>
@@ -110,7 +110,7 @@
 				</div>
 				<div class="col-md-3 animate-box text-center">
 					<div class="staff">
-						<div class="staff-img" style="background-image: url(images/staff-3.jpg);">
+						<div class="staff-img" style="background-image: url(images/person1.jpg);">
 							<ul class="fh5co-social">
 								<li><a href="#"><i class="icon-facebook2"></i></a></li>
 								<li><a href="#"><i class="icon-twitter2"></i></a></li>
