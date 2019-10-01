@@ -10,8 +10,8 @@
 					<div class="fh5co-contact-info">
 						<h3>Contact Information</h3>
 						<ul>
-							<li class="address">Ariam Abia State, <br> Seat Of Wisdom Seminary Ariam</li>
-							<li class="phone"><a href="tel://1234567920">+ 1235 2355 98</a></li>
+							<li class="address">Seat Of Wisdom Seminary, <br> Ariam Umuahia Abia State</li>
+							<li class="phone"><a href="tel://+2348164362138">+2348164362138</a></li>
 							<li class="email"><a href="mailto:info@yoursite.com">info@sws-ariam.com</a></li>
 							<li class="url"><a href="http://sws-ariam">Seat Of Widom Seminary Ariam</a></li>
 						</ul>

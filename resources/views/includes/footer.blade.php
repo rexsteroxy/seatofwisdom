@@ -5,7 +5,8 @@
 			<div class="row row-pb-md">
 				<div class="col-md-3 fh5co-widget">
 					<h3>About The Seminary</h3>
-					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
+					<p>This is the official Website of Seat of Wisdom Major Seminary Umuahia. The seminary is an offshoot of her main campus in Owerri. It was founded by the Catholic Bishops of Owerri Province in 2006. The Seminary community is headed by the Rector Rev.Fr.Dr.Virgilus Amadi and houses a total of 200 seminarians and at about 30 tutorial and non tutorial staff. With hope of forming future priests for the missions ahead, and being one of the newest provincial seminary in Nigeria, our seminary is in need of support in any form monetarily or materially.
+						 Be a friend of the Seat of Wisdom Umuahia Family and be part of sponsoring a catholic seminarian.</p>
 				</div>
 				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
 					<h3>Learning</h3>

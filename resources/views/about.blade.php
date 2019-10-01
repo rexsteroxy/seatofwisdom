@@ -6,9 +6,11 @@
 			<div class="col-md-6 animate-box">
 				<span>About Our Seminary</span>
 				<h2>Welcome to Seat Of Wisdom Seminay Ariam</h2>
-				<p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat cauctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per Mauris in erat justo.</p>
-				<p>Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed.</p>
-				<p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat cauctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per Mauris in erat justo.</p>
+				<p>This is the official Website of Seat of Wisdom Major Seminary Umuahia. 
+					<p>The seminary is an offshoot of her main campus in Owerri. It was founded by the Catholic Bishops of Owerri Province in 2006. The Seminary community is headed by the Rector Rev.Fr.Dr.Virgilus Amadi 
+						and houses a total of 200 seminarians and at about 30 tutorial and non tutorial staff.</p>  
+				With hope of forming future priests for the missions ahead, and being one of the newest provincial seminary in Nigeria, our seminary is in need of support in any form monetarily or materially.
+				 Be a friend of the Seat of Wisdom Umuahia Family and be part of sponsoring a catholic seminarian.</p>
 			</div>
 			<div class="col-md-6">
 				<img class="img-responsive" src="images/img_bg_2.jpg" alt="Free HTML5 Bootstrap Template">
@@ -16,36 +18,6 @@
 		</div>
 	</div>
 
-	<div id="fh5co-counter" class="fh5co-counters" style="background-image: url(images/img_bg_4.jpg);" data-stellar-background-ratio="0.5">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-10 col-md-offset-1">
-					<div class="row">
-						<div class="col-md-3 col-sm-6 text-center animate-box">
-							<span class="icon"><i class="icon-world"></i></span>
-							<span class="fh5co-counter js-counter" data-from="0" data-to="3297" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Foreign Followers</span>
-						</div>
-						<div class="col-md-3 col-sm-6 text-center animate-box">
-							<span class="icon"><i class="icon-study"></i></span>
-							<span class="fh5co-counter js-counter" data-from="0" data-to="3700" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Students Enrolled</span>
-						</div>
-						<div class="col-md-3 col-sm-6 text-center animate-box">
-							<span class="icon"><i class="icon-bulb"></i></span>
-							<span class="fh5co-counter js-counter" data-from="0" data-to="5034" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Classes Complete</span>
-						</div>
-						<div class="col-md-3 col-sm-6 text-center animate-box">
-							<span class="icon"><i class="icon-head"></i></span>
-							<span class="fh5co-counter js-counter" data-from="0" data-to="1080" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Certified Teachers</span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 
 	@endsection
