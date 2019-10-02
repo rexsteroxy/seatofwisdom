@@ -29,7 +29,7 @@
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-img-holder" style="background-image: url(images/blog1.jpg);"></a>
+						<a href="#" class="blog-img-holder" style="background-image: url(images/blog2.jpg);"></a>
 						<div class="blog-text">
 							<h3><a href="#">We Need Good Roads.Government Should Come To Our Aid</a></h3>
 							<span class="posted_on">March. 15th</span>
@@ -44,7 +44,7 @@
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-img-holder" style="background-image: url(images/blog1.jpg);"></a>
+						<a href="#" class="blog-img-holder" style="background-image: url(images/blog4.jpg);"></a>
 						<div class="blog-text">
 							<h3><a href="#">We Need Good Roads.Government Should Come To Our Aid</a></h3>
 							<span class="posted_on">March. 15th</span>
@@ -134,20 +134,20 @@
 						</div>
 						<div class="row">
 							<div class="col-md-3 ">
+								<a href="#" class="gallery" style="background-image: url(images/img3.jpg);"></a>
+							</div>
+							<div class="col-md-3 ">
 								<a href="#" class="gallery" style="background-image: url(images/img1.jpg);"></a>
 							</div>
 							<div class="col-md-3 ">
 								<a href="#" class="gallery" style="background-image: url(images/img2.jpg);"></a>
 							</div>
 							<div class="col-md-3 ">
-								<a href="#" class="gallery" style="background-image: url(images/img3.jpg);"></a>
-							</div>
-							<div class="col-md-3 ">
 								<a href="#" class="gallery" style="background-image: url(images/person1.jpg);"></a>
 							</div>
 						</div>
                     </div>
-                    <button class="btn btn primay"> <a href="gallery.html">Click To View More</a> </button>
+                    <button class="btn btn primay"> <a href="/gallary">Click To View More</a> </button>
 					</div>
 					</div>
 

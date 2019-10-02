@@ -40,16 +40,6 @@
 					</ul>
 				</div>
 
-				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
-					<h3>Legal</h3>
-					<ul class="fh5co-footer-links">
-						<li><a href="#">Find Holy Seminarians</a></li>
-						<li><a href="#">Find Intelligent Seminarians</a></li>
-						<li><a href="#">Teams</a></li>
-						<li><a href="#">Advertise</a></li>
-						<li><a href="#">Solidalities</a></li>
-					</ul>
-				</div>
 			</div>
 
 			<div class="row copyright">

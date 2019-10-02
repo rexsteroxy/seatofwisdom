@@ -32,7 +32,7 @@
 						<div class="desc">
 							<h3><a href="#">Epistemology</a></h3>
 							<p>The theory of knowledge.</p>
-							<p>Epistemologisst are majorly concerned with the theory of knowledge.  The question of a justified belief and the relevance of truth over falsity are its major concern. Rev.Fr.Dr.Virgilus Amadi (Rector) is one seasoned epistemologist known for his mind-blowing logic and great intellectual repute and contribution to the field of epistemology. 
+							<p>Epistemologist are majorly concerned with the theory of knowledge.  The question of a justified belief and the relevance of truth over falsity are its major concern. Rev.Fr.Dr.Virgilus Amadi (Rector) is one seasoned epistemologist known for his mind-blowing logic and great intellectual repute and contribution to the field of epistemology. 
 								He is the lecturer of Epistemology at the Seat of Wisdom Major Seminary Umuahia.</p>
 							<button class="btn btn primay"> <a href="/courses">Take A Course</a> </button>
 						</div>

@@ -28,7 +28,7 @@
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-img-holder" style="background-image: url(images/blog1.jpg);"></a>
+						<a href="#" class="blog-img-holder" style="background-image: url(images/blog2.jpg);"></a>
 						<div class="blog-text">
 							<h3><a href="#">We Need Good Roads.Government Should Come To Our Aid</a></h3>
 							<span class="posted_on">March. 15th</span>
@@ -43,7 +43,7 @@
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-img-holder" style="background-image: url(images/blog1.jpg);"></a>
+						<a href="#" class="blog-img-holder" style="background-image: url(images/blog4.jpg);"></a>
 						<div class="blog-text">
 							<h3><a href="#">We Need Good Roads.Government Should Come To Our Aid</a></h3>
 							<span class="posted_on">March. 15th</span>
